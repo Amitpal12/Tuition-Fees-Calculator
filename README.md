@@ -1,2 +1,2 @@
 # Tuition-Fees-Calculator
-This is a Tuition fees calculator.This Applications is fully responsive layout.we can use your any devices.
+This is a Web based php application.This Applications is fully responsive layout.We can use your any devices.
